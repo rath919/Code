@@ -1,5 +1,4 @@
-
-int main(){
+dfsfsdfsdfsfsdf{}
 
 
     scanf("%d%d",&a,&b);
